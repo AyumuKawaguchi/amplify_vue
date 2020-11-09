@@ -1,0 +1,15 @@
+{
+  "developer": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-salesforceproject-developer-70615-authRole",
+      "UnauthRoleArn": "arn:aws:iam::325608739557:role/amplify-salesforceproject-developer-70615-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::325608739557:role/amplify-salesforceproject-developer-70615-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-salesforceproject-developer-70615-deployment",
+      "UnauthRoleName": "amplify-salesforceproject-developer-70615-unauthRole",
+      "StackName": "amplify-salesforceproject-developer-70615",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:325608739557:stack/amplify-salesforceproject-developer-70615/e791dff0-1cd9-11eb-b842-0e3b8595a6ba",
+      "AmplifyAppId": "d294t8och8y65"
+    }
+  }
+}
