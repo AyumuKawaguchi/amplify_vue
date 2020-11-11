@@ -1,1 +1,5 @@
-module.exports = {devServer: {disableHostCheck: true}}
+module.exports = {
+  devServer: {
+    disableHostCheck: true
+  }
+}
